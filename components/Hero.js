@@ -8,7 +8,7 @@ const style = {
     ctaContainer: `flex`,
     accentedButton: ` relative text-lg font-semibold px-12 py-4 bg-[#2181e2] rounded-lg mr-5 text-white hover:bg-[#42a0ff] cursor-pointer`,
     button: ` relative text-lg font-semibold px-12 py-4 bg-[#363840] rounded-lg mr-5 text-[#e4e8ea] hover:bg-[#4c505c] cursor-pointer`,
-    cardContainer: `rounded-[3rem]`,
+    cardContainer: `rounded-[3rem] p-10`,
     infoContainer: `h-20 bg-[#313338] p-4 rounded-b-lg flex items-center text-white`,
     author: `flex flex-col justify-center ml-4`,
     name: ``,
