@@ -67,8 +67,10 @@ export default function Home() {
             >
               Connect Wallet
             </button>
-            <div className={style.details}>
-              You need Chrome to be<br />able to run this app.
+            <div className={style.details} style={{ color:'white' }}>
+              Requirement to run this app:<br />
+              Google Chrome and<br/>
+              Metasmask that is connected to Rinkeby Test Network<br/>
             </div>
           </div>
         )
